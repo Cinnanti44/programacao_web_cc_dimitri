@@ -1,0 +1,21 @@
+#titulo{
+    text-align: center;
+    color: aqua;
+
+}
+
+.rodape{
+    text-align: center;
+
+}
+
+.entrada-usuario{
+    border: 1px solid black;
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    position: absolute;
+    left: 50%;
+    right: 50%;
+    transform: translate(-50%,-50%);
+}
